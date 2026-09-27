@@ -1,0 +1,24 @@
+FLOWIQ - RUN ME FIRST
+
+You do NOT need to understand every file before running the project.
+
+1. Extract the ZIP.
+2. Open the extracted FLOWIQ_Submission folder in VS Code.
+3. Open Terminal in that folder.
+4. Install NumPy:
+   pip install numpy
+5. Run the automatic demo first:
+   python demo.py
+6. Then run the full interactive project:
+   python main.py
+7. Run the project check before submission:
+   python self_test.py
+
+The main file is `main.py`.
+The `flowiq` folder is required by the main file.
+The `docs` folder contains the report.
+The `presentation` folder contains the optional PPT.
+The `notebook` folder contains the Jupyter demonstration.
+
+IMPORTANT:
+Fill your Name / Registration Number / Section / Faculty details in the report and PPT before submission if your university requires them.
